@@ -7,9 +7,6 @@ Proyecto realizado por:
 - <a href='https://github.com/ioSoyPato/'>Patricio Adulfo Villanueva Gio</a> 
 
 ## 🔎 Descripción del Proyecto:
->[!TIP]
-> Puedes agregar una noticia en particular para clasificarla
-
 Este proyecto tiene como objetivo desarrollar un sistema integral que monitoree, analice y responda a la información que circula en los medios de comunicación y redes sociales, particularmente útil para empresas y gobiernos durante crisis o eventos importantes.
 
 ## 🧩 Componentes del Proyecto:
@@ -29,6 +26,8 @@ Este proyecto tiene como objetivo desarrollar un sistema integral que monitoree,
     - Identificar temas que están ganando tracción o perdiendo interés a lo largo del tiempo. Esto es crucial para ajustar las estrategias de comunicación y respuesta en tiempo real.
 
 - __Clasificación de tematicas:__
+  >[!TIP]
+    > Puedes agregar una noticia en particular para clasificarla
 
     - Utilizar modelos de clasificación de texto para identificar y categorizar las temáticas de los contenidos recopilados. Esto permite una segmentación más precisa del contenido, facilitando la respuesta específica a cada tipo de mensaje o información.
 - __Extracción de Palabras Clave:__
