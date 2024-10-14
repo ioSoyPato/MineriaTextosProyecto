@@ -26,8 +26,6 @@ Este proyecto tiene como objetivo desarrollar un sistema integral que monitoree,
     - Identificar temas que están ganando tracción o perdiendo interés a lo largo del tiempo. Esto es crucial para ajustar las estrategias de comunicación y respuesta en tiempo real.
 
 - __Clasificación de tematicas:__
-  >[!TIP]
-    > Puedes agregar una noticia en particular para clasificarla
 
     - Utilizar modelos de clasificación de texto para identificar y categorizar las temáticas de los contenidos recopilados. Esto permite una segmentación más precisa del contenido, facilitando la respuesta específica a cada tipo de mensaje o información.
 - __Extracción de Palabras Clave:__
@@ -35,6 +33,8 @@ Este proyecto tiene como objetivo desarrollar un sistema integral que monitoree,
     - Destacar las palabras clave y frases más mencionadas en los medios para identificar rápidamente los principales puntos de discusión o preocupación.
 
 ## ⛳ Objetivo:
+>[!TIP]
+> Puedes agregar una noticia en particular para clasificarla
 El objetivo principal es proporcionar a las organizaciones una plataforma que les permita estar informadas en tiempo real sobre cómo se está comunicando y percibiendo una situación de crisis. Esto permite una gestión más efectiva y una respuesta más rápida y adecuada a la evolución de la situación.
 
 Incluir la Clasificación de Temáticas no solo enriquece la capacidad de análisis del sistema, sino que también refina la precisión con la que se pueden identificar y responder a diferentes aspectos de una crisis, lo cual es vital para manejar situaciones complejas y dinámicas eficientemente.
